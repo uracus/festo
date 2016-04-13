@@ -1,0 +1,5 @@
+name: "Exsete"
+description: "Exsete Consulting Pvt. Ltd. provide web services"
+baseurl: "/"
+markdown: rdiscount
+permalink: pretty
